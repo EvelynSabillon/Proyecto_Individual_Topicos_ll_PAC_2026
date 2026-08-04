@@ -1,0 +1,32 @@
+DATO 1 true 29472 26064
+                       name:   ether1
+      rx-packets-per-second:       17
+         rx-bits-per-second: 29.4kbps
+   fp-rx-packets-per-second:        0
+      fp-rx-bits-per-second:     0bps
+        rx-drops-per-second:        0
+       rx-errors-per-second:        0
+      tx-packets-per-second:       17
+         tx-bits-per-second: 26.0kbps
+   fp-tx-packets-per-second:        0
+      fp-tx-bits-per-second:     0bps
+        tx-drops-per-second:        0
+  tx-queue-drops-per-second:        0
+       tx-errors-per-second:        0
+
+DATO 2 true 1824 0
+                       name:  ether2
+      rx-packets-per-second:       2
+         rx-bits-per-second: 1824bps
+   fp-rx-packets-per-second:       0
+      fp-rx-bits-per-second:    0bps
+        rx-drops-per-second:       0
+       rx-errors-per-second:       0
+      tx-packets-per-second:       0
+         tx-bits-per-second:    0bps
+   fp-tx-packets-per-second:       0
+      fp-tx-bits-per-second:    0bps
+        tx-drops-per-second:       0
+  tx-queue-drops-per-second:       0
+       tx-errors-per-second:       0
+
