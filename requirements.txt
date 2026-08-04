@@ -1,0 +1,14 @@
+# Dependencias de Python del proyecto.
+#     pip install -r requirements.txt
+#
+# Tkinter NO se instala con pip: viene con el sistema operativo.
+#     Debian / Ubuntu:  sudo apt install python3-tk
+#
+# Tampoco se instalan con pip el cliente de OpenSSH ni ping:
+#     sudo apt install openssh-client iputils-ping
+
+customtkinter>=5.2.0
+
+# Pillow hace falta para los iconos on.png / off.png del monitoreo.
+# Si no esta, la aplicacion funciona igual: dibuja circulos de color.
+Pillow>=9.0.0
