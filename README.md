@@ -5,7 +5,7 @@ Administración de un router MikroTik (RouterOS) desde Python sobre Linux.
 * **Estudiante:** Evelyn Andrea Sabillon Limas 20212000317
 * **Asignatura:** Tópicos Especiales y Avanzados
 * **Periodo:** II PAC 2026
-* **URL Video:** 
+* **URL Video:** https://youtu.be/J6wj-WMonUE?si=Tgetply4y0dxj7YK
 
 ---
 
